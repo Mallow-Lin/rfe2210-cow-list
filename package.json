@@ -1,7 +1,7 @@
 {
   "name": "fullstack-reps-cowlist",
   "version": "1.0.0",
-  "description": "",
+  "description": "Forked from: [https://trk.re/cowlist](https://trk.re/cowlist)",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server",

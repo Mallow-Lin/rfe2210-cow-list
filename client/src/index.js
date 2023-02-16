@@ -1,4 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(<div>Hello World!</div>, document.getElementById('app'));
+const App = () => {
+  return (
+    <div>
+      <h1> Cow List</h1>
+    </div>
+  )
+}
+ReactDOM.render(<App />, document.getElementById('app'));
