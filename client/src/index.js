@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import List from './components/List.js'
 import Add from './components/Add.js'
 import axios from 'axios';
-import $ from 'jquery';
 
 const App = () => {
 
